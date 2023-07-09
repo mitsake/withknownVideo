@@ -9,5 +9,4 @@ Videos do not get converted.
 
 ----
 
-I have no intention to develop this plugin anymore.
-Feel free to fork and continue.
+Updated to work with Known 1.5. I don't know PHP, but copy and paste are the same in all languages.
